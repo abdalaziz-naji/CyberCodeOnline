@@ -264,7 +264,7 @@
 						"eng": "Get even better equipments!"
 					},
 					"description": {
-						"trans": "يبدو أن المعدات الحالية الخاصة بك أبيت قديمة على مستواك، حاول الطباعة أقوى لاستبدالها",
+						"trans": "يبدو أن معداتك الحالية قديمة بعض الشيء بالنسبة لمستواك، حاول طباعة معدات أقوى لاستبدالها",
 						"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
 					}
 				},
@@ -287,17 +287,17 @@
 						"eng": "Use AI Core"
 					},
 					"description": {
-						"trans": "يبدو أن لديك بعض النوى AI، واستخدامها للقيام AFK التسوية التلقائي في منطقة المستوى المناسب.",
+						"trans": "يبدو أن لديك بعض AI CORE، استخدامها لإجراء التسوية التلقائية لAFK في منطقة المستوى المناسبة.",
 						"eng": "Looks like you have some AI Cores, use them to do AFK auto leveling in appropriate level area."
 					}
 				},
 				"noAiCore": {
 					"title": {
-						"trans": "الحصول على ai النوى",
+						"trans": "الحصول على AI CORE",
 						"eng": "Acquire AI Cores"
 					},
 					"description": {
-						"trans": "قد تحصل على ai cores بواسطة: \n         - فروق في مواقع مختلفة \n         - صياغة مع معالجات التجزئة وقطع القصاصات التقنية \n         - نهب من الأعداء في جميع المواقع",
+						"trans": "قد تحصل على AI CORE بواسطة: \n         - فروق في مواقع مختلفة \n         - صياغة مع معالجات التجزئة وقطع القصاصات التقنية \n         - نهب من الأعداء في جميع المواقع",
 						"eng": "You may get AI Cores by: \r\n        - Scavenge in various locations\r\n        - Crafting with Hash Processors and Tech Scraps\r\n        - Looting from enemies in all locations"
 					}
 				},
@@ -334,7 +334,7 @@
 					}
 				},
 				"description": {
-					"trans": "لقد وجدت مربع نهب مغلق مع لوحة مفاتيح ملونة، يجب أن تكون قادرا على فتحه باستخدام التسلسل الصحيح للألوان.",
+					"trans": "لقد عثرت علي صندوق نهب مغلق بلوحة مفاتيح ملونة، يجب أن تكون قادرا على فتحه باستخدام التسلسل الصحيح للألوان.",
 					"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
 				},
 				"progress": {
@@ -357,7 +357,7 @@
 						"eng": "Decryption failed"
 					},
 					"description": {
-						"trans": "انقر فوق تسلسل اللون الصحيح لفتح",
+						"trans": "انقر فوق تسلسل الألوان الصحيح لفتح",
 						"eng": "Click on the correct color sequence to unlock"
 					},
 					"button": {
@@ -383,7 +383,7 @@
 				"eng": "Put Bitcoins into bank"
 			},
 			"withdraw": {
-				"trans": "ينسحب",
+				"trans": "سحب",
 				"eng": "Withdraw"
 			},
 			"withdrawDesc": {
@@ -417,7 +417,7 @@
 				"vars": [
 					"upgradeToSlot"
 				],
-				"trans": "زيادة كمية الأقصى من العناصر التي يمكنك تخزينها في قبو إلى ${upgradeToSlot}",
+				"trans": "قم بزيادة الحد الأقصى لعدد العناصر التي يمكنك تخزينها في قبو إلى ${upgradeToSlot}",
 				"eng": "Increase the max amount of items you can store in vault to ${upgradeToSlot}"
 			},
 			"itemLocked": {
@@ -430,7 +430,7 @@
 					"eng": "How many would you like to put in the vault?"
 				},
 				"selectWithdrawItem": {
-					"trans": "كم تريد الانسحاب من البنك؟",
+					"trans": "كم تريد السحب من البنك؟",
 					"eng": "How many would you like to withdraw from the bank?"
 				},
 				"selectDeposit": {
@@ -438,13 +438,13 @@
 					"eng": "How much would you like to deposit?"
 				},
 				"selectWithdraw": {
-					"trans": "كم تريد الانسحاب؟",
+					"trans": "كم تريد السحب؟",
 					"eng": "How much would you like to withdraw?"
 				}
 			},
 			"upgradeVaultModal": {
 				"title": {
-					"trans": "ترقية قبو",
+					"trans": "ترقية القبو",
 					"eng": "Upgrade Vault"
 				},
 				"confirm": {
@@ -485,15 +485,15 @@
 				"eng": "Reestablishing connection"
 			},
 			"linksNotAllowed": {
-				"trans": "لا يسمح الروابط",
+				"trans": "لا يسمح بالروابط",
 				"eng": "Links are not allowed"
 			},
 			"spamBlock": {
-				"trans": "من فضلك لا ترسل رسالة لا معنى لها، سيتم صامتم الرسائل غير المرغوب فيها.",
+				"trans": "من فضلك لا ترسل رسالة لا معنى لها، سيتم تجاهل الرسائل غير المرغوب فيها.",
 				"eng": "Please do not send meaningless message, spams will be muted."
 			},
 			"repeatBlock": {
-				"trans": "من فضلك لا ترسل نفس الرسالة مرارا وتكرارا، سيتم صامت الرسائل غير المرغوب فيها.",
+				"trans": "من فضلك لا ترسل نفس الرسالة مرارا وتكرارا، سيتم تجاهل الرسائل غير المرغوب فيها.",
 				"eng": "Please do not send the same message repeatedly, spams will be muted."
 			},
 			"shortChatBlock": {
@@ -504,7 +504,7 @@
 				"vars": [
 					"minLevel"
 				],
-				"trans": "يجب أن تكون على الأقل مستوى ${minLevel} لإرسال رسائل الدردشة",
+				"trans": "يجب أن تكون في المستوى ${minLevel} على الأقل لإرسال رسائل الدردشة",
 				"eng": "You need to be at least level ${minLevel} to send chat messages"
 			},
 			"chat": {
@@ -565,7 +565,7 @@
 						"playerName",
 						"time"
 					],
-					"trans": "أرسلت بواسطة ${playerName} ${time}",
+					"trans": "أرسلت بواسطة ${playerName} منذ ${time}",
 					"eng": "Posted by ${playerName} ${time} ago"
 				}
 			},
@@ -578,7 +578,7 @@
 					"vars": [
 						"cost"
 					],
-					"trans": "سيتم تمكين دردشة العصابات عندما تنتمي إلى عصابة",
+					"trans": "سيتم تمكين دردشة العصابات عندما تنتمي إلى عصابة.\\n انضم الى عصابة من خلال تكوين صدقات في الدردشة العالمية أو قم بإنشاء عصابتك الخاصة ودعوة أصدقائك!",
 					"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
 				},
 				"createButton": {
@@ -605,7 +605,7 @@
 				"eng": "SL Medical Center"
 			},
 			"title": {
-				"trans": "فطلي",
+				"trans": "مسطحة",
 				"eng": "Flatlined"
 			},
 			"subTitleSmall": {
@@ -626,7 +626,7 @@
 		"equipment": {
 			"lowPrintLevelTip": {
 				"title": {
-					"trans": "انخفاض الطباعة المرتبة",
+					"trans": "تصنيف طباعة منخفض",
 					"eng": "Low Printing Rank"
 				}
 			},
@@ -1540,7 +1540,7 @@
 			},
 			"selectMinValue": {
 				"title": {
-					"trans": "حدد دقيقة قيمة",
+					"trans": "حدد القيمة الدنيا",
 					"eng": "Select min value"
 				}
 			}
@@ -1555,18 +1555,18 @@
 		},
 		"job": {
 			"cantEnterError": {
-				"trans": "يجب أن تكون على الأقل المستوى 2 للوصول إلى مركز الوظيفة",
+				"trans": "يجب أن تكون على الأقل في المستوى 2 للوصول إلى مركز الوظيفة",
 				"eng": "You need to be at least level 2 to access the job hub"
 			}
 		},
 		"logout": {
 			"cancelAfkConfirmModal": {
 				"title": {
-					"trans": "إلغاء AFK و اخرج؟",
+					"trans": "إلغاء AFK و تسجيل الخروج؟",
 					"eng": "Cancel Afk and logout?"
 				},
 				"description": {
-					"trans": "هل أنت متأكد من أنك تريد إلغاء AFK و LogOUT؟ لن يتم رد المورد المستخدم لبدء المهمة.",
+					"trans": "هل أنت متأكد من أنك تريد إلغاء AFK و تسجيل الخروج؟ لن يتم استرجاع الموارد المستخدم لبدء المهمة.",
 					"eng": "Are you sure you want to cancel your afk and logout? the resource used to start the task will NOT be refunded."
 				}
 			}
@@ -1577,7 +1577,7 @@
 					"vars": [
 						"playerName"
 					],
-					"trans": "لقد حظرت ${playerName}",
+					"trans": "لقد تم حظرك ${playerName}",
 					"eng": "You have blocked ${playerName}"
 				},
 				"unblock": {
@@ -1603,7 +1603,7 @@
 		},
 		"machineCraft": {
 			"itemLocked": {
-				"trans": "هذا البند مغلق",
+				"trans": "هذا العنصر مغلق",
 				"eng": "This item is locked"
 			}
 		},
@@ -1648,7 +1648,7 @@
 					"vars": [
 						"percent"
 					],
-					"trans": "هل أنت متأكد أنك تريد معايرة هذا البند مع فرصة الفشل المدمرة المدمرة ${percent}؟",
+					"trans": "هل أنت متأكد أنك تريد معايرة هذا البند مع فرصة الفشل مدمر قدره  ${percent}؟",
 					"eng": "Are you sure you want to calibrate this item with ${percent}% destructive failure chance?"
 				}
 			}
@@ -1656,7 +1656,7 @@
 		"equipmentUpgrade": {
 			"preventDestructionButton": {
 				"confirmation": {
-					"trans": "نشر النانو بوتس الآمنة لمنع تدمير العنصر الخاص بك؟",
+					"trans": "نشر روبوتات النانو الآمنة لمنع تدمير العنصر الخاص بك؟",
 					"eng": "Deploy Safety Nano Bots to prevent destruction of your item?"
 				},
 				"title": {
@@ -1669,7 +1669,7 @@
 					"vars": [
 						"minutes"
 					],
-					"trans": "في هذه اللعبة، يتم نشر جميع التعزيزات المدفوعة عالميًا، مما يعني أن اللاعبين الآخرين سيستفيدون من التعزيز الذي نشرته، وبالمثل ستحصل على نفس التعزيز عندما يقوم لاعب آخر بنشر تعزيز. سيستمر هذا التعزيز لمدة ${minutes} دقيقة، لذا يرجى ضبط معداتك بمجرد الانتهاء من نشر التعزيزات التي ترغب في نشرها",
+					"trans": "في هذه اللعبة، يتم نشر جميع التعزيزات المدفوعة عالميًا، مما يعني أن اللاعبين الآخرين سيستفيدون من التعزيز الذي قمت نشرته، وبالمثل ستحصل على نفس التعزيز عندما يقوم لاعب آخر بنشر التعزيز. سيستمر هذا التعزيز لمدة ${minutes} دقيقة، لذا يرجى معايرة معداتك بمجرد الانتهاء من نشر التعزيزات التي تريد نشرها",
 					"eng": "In this game, all paid buffs is deployed globally, meaning other players will benefit from the buff you deployed, similarly your will get the same buff when other player deployed a buff. this buff will last for ${minutes} minutes, so please calibrate your equipment as soon as you finish deploying the buffs you want to deploy"
 				},
 				"confirmation": {
